@@ -1,0 +1,14 @@
+---
+title: "il mio primo post"
+author: "Francesco D'Auria"
+date: "2019-03-24"
+---
+oggi sto imparando molto con
+- Bernardo
+- Samantha
+
+Let us sum `1+1` by **R**.
+
+```{r}
+sqrt(49)
+```
